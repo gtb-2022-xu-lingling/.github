@@ -6,6 +6,6 @@ Hi, this is BaekCho's Org.
 
 This is me ( in Animal Crossing~):
 
-![](F:\动森相册\05\08\2020050810403800-02CB906EA538A35643C1E1484C4B947D.jpg)
+![](../asset/me.jpg)
 
 Welcome to add friends :  SW022527626133
