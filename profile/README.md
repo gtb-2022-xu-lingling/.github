@@ -14,6 +14,6 @@ Board games......
 
 This is me ( in Animal Crossing~):
 
-![](../asset/me.jpg)
+![](https://github.com/gtb-2022-xu-lingling/.github/blob/master/asset/me.jpg)
 
 Welcome to add friends :  SW022527626133
